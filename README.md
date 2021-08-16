@@ -7,11 +7,13 @@ This is a front-end project developed using
 HTML 5
 CSS 3
 JS 
-NewsApp.Org
+NewsApp.Org (used this API to fetch news)
 
 #How To Access
 
+To start this project you need to use live server or clone this project and using "node run" command execute this project.
+
 Repositry Link :-> https://github.com/Hamza-Sajid/News-App
 
-Live Link :-> 
+Live Link :-> http://draconian-honey.surge.sh/  (not live server)
 
